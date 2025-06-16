@@ -1,0 +1,11 @@
+release/areadesenho.o
+release/cohen_sutherland.o
+release/displayfile.o
+release/main.o
+release/mainwindow.o
+release/matriz.o
+release/poligono.o
+release/ponto.o
+release/reta.o
+release/moc_areadesenho.o
+release/moc_mainwindow.o
